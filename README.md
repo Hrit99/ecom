@@ -1,6 +1,11 @@
 # ecomm_app
 
-A new Flutter project.
+User Interface for an E-Commerce application built using flutter. 
+
+Features inlude:
+1. Cart feature along with state management throughout the application.
+2. Cache management for better performance.
+3. Signin and signup using phone number. Used Rest APIs.
 
 ## Getting Started
 
